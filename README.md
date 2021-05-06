@@ -1,3 +1,3 @@
-# BT4_AES
+# Encrypt EAS
 
-csbm&attt
+Thuật toán mã hóa
